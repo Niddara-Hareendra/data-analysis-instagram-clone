@@ -1,1 +1,1 @@
-# data-analysis-instagram-clone
+# instagram-clone-data-analysis
